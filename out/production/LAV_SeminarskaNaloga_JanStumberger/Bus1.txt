@@ -1,0 +1,8 @@
+B Arriva
+Jože
+Ponedeljek Torek Sreda         
+Zg.#Polskava Fram Maribor # # # # # # # # # # # # 
+11 11 11 0 0 0 0 0 0 0 0 0 0 0 0 
+11 22 43 0 0 0 0 0 0 0 0 0 0 0 0 
+3
+3
